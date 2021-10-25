@@ -20,6 +20,6 @@ jobs:
           password: ${{ secrets.password }}
           reason: "上课"
           wechat: "False"
-          in_street: "青龙桥"
-          out_track: "燕园-圆明园"
+          in_street: "海淀街道"
+          out_track: "燕园-中成大厦"
           sckey: "xxxxxxxx"
